@@ -2,11 +2,17 @@
 
 ## Pre-processing
 In pre-processing following things are done:
+
 1- Removing non-aphlabetic characters and stopwords
+
 2- Lemmatization(the process of grouping together the inflected forms of a word so they can be analysed as a single item, identified by the word's lemma, or dictionary form)
+
 3- Removing Duplicates
+
 4- Resampling of data set
+
 5- Vectorization.
+
 ![image](https://user-images.githubusercontent.com/61706830/172048728-8275cd87-a6ca-45ba-8e77-88407a62fdf7.png)
 
 ## Processing
