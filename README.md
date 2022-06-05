@@ -1,4 +1,4 @@
-# Hate-Speech-Detection
+# Hate Speech Detection
 
 ## Pre-processing
 In pre-processing following things are done:
